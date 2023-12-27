@@ -17,7 +17,7 @@ Type the program to be executed.
 Step 3:
 Using the lu(), we can find the solutions.
 Step 4:
-Print the value and end the program.
+Print the value and end the program..
 ```
 ## Program:
 (i) To find the L and U matrix
